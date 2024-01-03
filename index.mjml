@@ -1,0 +1,241 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+      }
+
+      .link-color {
+        font-size: 24px;
+        color: #004c3f;
+        font-weight: bold;
+        padding-bottom: 20px;
+        text-decoration: none;
+      }
+
+      .link-color:hover {
+        color: #004c3f;
+        font-weight: bold;
+        text-decoration: underline;
+      }
+
+      .learn-more {
+        font-size: 14px;
+        color: #008060;
+        font-weight: bold;
+        padding-bottom: 20px;
+        text-decoration: none;
+      }
+
+      .learn-more:hover {
+        color: #008060 font-weight: bold;
+        text-decoration: underline;
+      }
+
+      .footer-links {
+        color: #000;
+        text-decoration: none;
+
+      }
+
+      .footer-links-hover {
+        color: #000;
+        text-decoration: none;
+
+      }
+    </mj-style>
+
+
+    <mj-style inline="inline">
+      .icons-size {
+        max-width: 280px;
+        padding: 40px 0 60px;
+        text-align: center;
+      }
+
+      .header {
+        background-color: #004c3f;
+
+      }
+
+      .section-padding {
+        padding-left: 30px;
+        padding-right: 30px;
+      }
+
+      .paragraph {
+        font-size: 18px;
+        color: #004c3f;
+        font-weight: normal;
+        padding-bottom: 20px;
+      }
+
+      .footer {
+        background-image: url('https://iili.io/JRTAFi7.png');
+        background-size: 600px;
+      }
+
+      .content-background {
+        background-color: #ffffff;
+        padding: 0px 0;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#f2f2f2">
+    <mj-section css-class="content-background">
+      <mj-raw>
+        <!--Header-->
+      </mj-raw>
+      <mj-section css-class="header section-padding" background-color="#004c3f">
+        <mj-column>
+          <mj-image width="121px" align="left" src="https://iili.io/JRTAzDQ.png" alt="" />
+      </mj-section>
+
+      <mj-raw>
+        <!--Top Section-->
+      </mj-raw>
+      <mj-section>
+        <mj-column padding="20px 0 30px 0">
+          <mj-text css-class="header-title" font-size="58px" color="#004c3f" font-weight="bold">
+            What's New
+          </mj-text>
+          <mj-text css-class="header-title" color="#004c3f" font-weight="normal" font-size="18px">
+            July 18, 2028
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-raw>
+        <!--3 Line Section-->
+      </mj-raw>
+      <mj-section>
+        <mj-column padding="0">
+          <mj-image padding="0" src="https://iili.io/JRTAff9.png" alt="" />
+        </mj-column>
+      </mj-section>
+
+      <mj-raw>
+        <!--Main Section-->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-image src="https://iili.io/JRTAnHb.jpg" />
+        </mj-column>
+        <mj-column>
+          <mj-text>
+            <a href="https://alcinay-cv-24503.web.app/" class="link-color"> Find more ways to sell with pre-orders</a>
+          </mj-text>
+          <mj-text color="#004c3f" font-size="16px" font-weight="normal" padding-bottom="20px" line-height="20px">
+            We've gone and made selling even easier, with pre-orders. Give your customers the ability to pay now, pay a deposit, or pay later, and in the process, increase your sales, forecast demand, and create buzz for your products.
+          </mj-text>
+          <mj-text>
+            <a href="https://alcinay-cv-24503.web.app/" class="learn-more">Learn More --></a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-raw>
+        <!--3 Line Section-->
+      </mj-raw>
+      <mj-section>
+        <mj-column padding="0">
+          <mj-image padding="0" src="https://iili.io/JRTAff9.png" alt="" />
+        </mj-column>
+      </mj-section>
+
+      <mj-raw>
+        <!--Bottom Section-->
+      </mj-raw>
+      <mj-section padding="40px 40px 20px 40px">
+        <mj-column>
+          <mj-text font-weight="bold" font-size="20px" line-height="20px" color="#212b35" align="center">
+            Running a business like your isn't a desk job. Keep it from becoming one with the Shopify app.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column padding="0">
+            <mj-image padding="0 5px" align="right" href="https://apple.com" src="https://iili.io/JRTAuWB.png" width="150px" height="43px" />
+          </mj-column>
+          <mj-column>
+            <mj-image padding="0 5px" align="left" href="https://google.com" src="https://iili.io/JRTAqle.png" width="150px" height="43px" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-raw>
+        <!--Footer-->
+      </mj-raw>
+
+      <mj-wrapper css-class="footer" padding="0px">
+        <mj-section padding="0">
+          <mj-group css-class="icons-size">
+            <mj-column padding="0">
+              <mj-image padding="0 5px" href="https://facebook.com" src="https://iili.io/JRTABUu.png" width="27px" height="27px" alt="Facebook" />
+            </mj-column>
+            <mj-column padding="0">
+              <mj-image padding="0 5px" href="https://twitter.com" src="https://iili.io/JRTA5f1.png" width="27px" height="27px" alt="Twitter" />
+            </mj-column>
+            <mj-column padding="0">
+              <mj-image padding="0 5px" href="https://www.instagram.com" src="https://iili.io/JRTAxOx.png" width="27px" height="27px" alt="Instagram" />
+            </mj-column>
+            <mj-column padding="0">
+              <mj-image padding="0 5px" href="https://www.snapchat.com" src="https://iili.io/JRTAAiP.png" width="27px" height="27px" alt="Snapchat" />
+            </mj-column>
+            <mj-column padding="0">
+              <mj-image padding="0 5px" href="https://www.linkedin.com" src="https://iili.io/JRTAoRj.png" width="27px" height="27px" alt="LinkedIN" />
+            </mj-column>
+            <mj-column padding="0">
+              <mj-image padding="0 5px" href="https://www.pinterest.com" src="https://iili.io/JRTATxV.png" width="27px" height="27px" alt="Pinterest" />
+            </mj-column>
+            <mj-column padding="0">
+              <mj-image padding="0 5px" href="https://www.youtube.com" src="https://iili.io/JRTA70F.png" width="27px" height="27px" alt="YouTube" />
+            </mj-column>
+            <mj-section padding="20px 0 0">
+              <mj-column padding="0">
+                <mj-text align="center" font-size="10px">
+                  &copy; Shopify, 151 O'Connor Street, Ground floor, Ottawa, ON, Canada, K2P 2L8
+                </mj-text>
+              </mj-column>
+            </mj-section>
+            <mj-section padding="0px 0 60px"> 
+        <mj-column padding="0">
+          <mj-text align="center" font-size="10px">
+         <a href="#" class="footer-links">Unsubscribe</a> |
+          <a href="#" class="footer-links">Manage Your Email Preferences</a>
+        </mj-text>
+        </mj-column>
+      </mj-section>
+
+        </mj-section>
+        </mj-group>
+    </mj-section>
+
+    </mj-wrapper>
+
+    <!--
+    <mj-section>
+      <mj-column>
+        <mj-text align="center">
+          &copy; Shopify, 151 O'Connor Street, Ground floor, Ottawa, ON, Canada, K2P 2L8
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" padding="0" width="0">
+          Unsubscribe
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text align="center" padding="0" width="0">
+          Manage your email preferences
+        </mj-text>
+      </mj-column>
+    </mj-section> -->
+    </mj-section>
+  </mj-body>
+</mjml>
